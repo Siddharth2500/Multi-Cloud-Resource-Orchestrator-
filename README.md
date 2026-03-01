@@ -63,7 +63,7 @@ python multi_cloud_orchestrator.py
 ```
 
 **Expected Output:**
-```
+`````
 ======================================================================
  Multi-Cloud Resource Orchestrator - Standalone Demo
 ======================================================================
