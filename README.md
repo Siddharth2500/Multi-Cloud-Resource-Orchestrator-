@@ -3,7 +3,7 @@
 ## 🎯 Overview
 A comprehensive cloud resource management system that discovers, monitors, and orchestrates resources across multiple cloud providers (primarily AWS). This **standalone version requires NO external dependencies** - it uses only Python's standard library and simulates cloud operations for demonstration and learning purposes.
 
------
+------
 
 ## ✨ Features
 
